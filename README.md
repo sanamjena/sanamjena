@@ -42,10 +42,10 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/sanamsritam/sanamsritam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact" height="170"/>
 </a>
 <a href="https://github.com/sanamsritam/sanamsritam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=light" alt="Sanam's GitHub Stats" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=light" alt="Sanam's GitHub Stats" height="170"/>
 </a>
 
 <h3 align="left">Support:</h3>
