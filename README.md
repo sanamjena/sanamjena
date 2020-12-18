@@ -34,6 +34,9 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align='right'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sanamsritam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sanamsritam" /></a></p><br><br>
