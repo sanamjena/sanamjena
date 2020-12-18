@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sanamsritam](https://www.github.com/sanamsritam)
 
-- 💬 Ask me about **JavaScript, Bootstrap, Salesforce**
+- 💬 Ask me about **JavaScript, Bootstrap & Salesforce**
 
 - 📫 How to reach me **sanamsritam@gmail.com**
 
