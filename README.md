@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sanamsritam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18S4m3dX4AxykItXRVI5J931mnIpLmHna/view?usp=sharing](https://drive.google.com/file/d/18S4m3dX4AxykItXRVI5J931mnIpLmHna/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18S4m3dX4AxykItXRVI5J931mnIpLmHna/view?usp=sharing)
 
 - ⚡ Fun fact **I love travelling, In the first 4 months of coming to the United States, I have travelled across 14 states. I was happy about getting a chance to travel this frequently until COVID-19 and I have not been able to travel. I like scuba diving, swimming & clicking pictures.**
 
