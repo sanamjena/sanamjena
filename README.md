@@ -33,11 +33,11 @@
   <img src="https://img.shields.io/badge/intel-hd%204000-%2376B900.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
-<tb>
+<table>
     <tr>
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </tr>
- </tb>
+ </table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=dark" width="350"></a>
