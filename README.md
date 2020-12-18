@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/sanamsritam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanamsritam" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/sanamsritam" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanamsritam" height="30" width="150" /></a>
+<a href="https://linkedin.com/in/sanamsritam" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanamsritam" height="30" width="110" /></a>
 <a href="https://fb.com/sanamsritam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanamsritam" height="30" width="40" /></a>
 <a href="https://instagram.com/sanam_sritam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanam_sritam" height="30" width="40" /></a>
 </p>
