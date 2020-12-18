@@ -35,8 +35,12 @@
 
 <table>
     <tr>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        <td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </td>
+      
   </tr>
+
  </table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='left'>
