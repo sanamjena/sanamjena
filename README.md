@@ -25,5 +25,7 @@
 <a href="https://instagram.com/sanam_sritam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanam_sritam" height="30" width="40" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sanamsritam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sanamsritam" /></a></p><br><br>
