@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/intel-hd%204000-%2376B900.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=dark" width="350"></a>
