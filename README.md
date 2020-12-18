@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/sanamsritam" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="sanamsritam"/></a>
 <a href="https://www.facebook.com/sanamsritam" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="sanamsritam" /></a>
 <a href="https://www.instagram.com/sanam_sritam" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sanam_sritam"/></a>
+
+<a href="https://api.whatsapp.com/send?phone=12019205664&text=Hi!%0AI%20found%20you%20on%20GitHub" target="blank"><img align="center" src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="sanam_sritam"/></a>
 </p>
 
 <p align='left'>
@@ -33,15 +35,6 @@
   <img src="https://img.shields.io/badge/intel-hd%204000-%2376B900.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
-<table>
-    <tr>
-        <td>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </td>
-      
-  </tr>
-
- </table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=dark" width="350"></a>
