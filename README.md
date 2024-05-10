@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanam Sritam Jena</h1>
 <h3 align="center">A passionate developer from India, currently situated at USA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanamsritam&label=Profile%20views&color=0e75b6&style=flat" alt="sanamsritam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanamjena&label=Profile%20views&color=0e75b6&style=flat" alt="sanamjena" /> </p>
 
 - 🔭 I’m currently working on **Impact of Task Cycle Pattern on Project Success in Software Crowdsourcing**
 
@@ -43,10 +43,10 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/sanamsritam/sanamsritam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsritam&layout=compact" height="182"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamjena&layout=compact" height="182"/>
 </a>
 <a href="https://github.com/sanamsritam/sanamsritam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanamsritam&show_icons=true&count_private=true&theme=light" alt="Sanam's GitHub Stats" height="182"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanamjena&show_icons=true&count_private=true&theme=light" alt="Sanam's GitHub Stats" height="182"/>
 </a>
 
 <h3 align="left">Support:</h3>
