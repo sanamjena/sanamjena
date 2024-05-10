@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/sanamsritam](https://www.github.com/sanamsritam)
+- 👨‍💻 All of my projects are available at [https://www.github.com/sanamjena](https://www.github.com/sanamjena)
 
 - 💬 Ask me about **JavaScript, Bootstrap & Salesforce**
 
