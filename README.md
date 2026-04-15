@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanam Sritam Jena</h1>
-<h3 align="center">A passionate developer from India, currently situated at USA.</h3>
+<h3 align="center">A passionate developer in USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanamjena&label=Profile%20views&color=0e75b6&style=flat" alt="sanamjena" /> </p>
 
@@ -21,13 +21,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sanamjena" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="sanamsritam"/></a>
 
-### 💻 My workspace
-<p align='left'>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-hd%204000-%2376B900.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-</p>
 
 ### 🔧  Languages and Tools:
 
